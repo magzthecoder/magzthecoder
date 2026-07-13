@@ -161,7 +161,7 @@ Automation scripts, APIs, and Python experiments.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/carlton-magura-40b57339b/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
